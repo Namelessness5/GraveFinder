@@ -20,7 +20,7 @@ It goes beyond traditional family tree software by offering a unique **"Last Mil
 
 | Infinite Canvas | Profile Details | "Last Mile" Guide |
 | :---: | :---: | :---: |
-| `<img src="docs/canvas.png" width="250"/>` | `<img src="docs/profile.png" width="250"/>` | `<img src="docs/last_mile.png" width="250"/>` |
+| `<img src="docs/graph.jpg" width="250"/>` | `<img src="docs/detail.jpg" width="250"/>` | `<img src="docs/route.jpg" width="250"/>` |
 
 ## 🚀 Getting Started
 
