@@ -16,11 +16,9 @@ It goes beyond traditional family tree software by offering a unique **"Last Mil
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with your actual app screenshots)*
-
 | Infinite Canvas | Profile Details | "Last Mile" Guide |
 | :---: | :---: | :---: |
-| `<img src="docs/graph.jpg" width="250"/>` | `<img src="docs/detail.jpg" width="250"/>` | `<img src="docs/route.jpg" width="250"/>` |
+| ![Infinite Canvas](docs/graph.jpg?raw=true) | ![Profile Details](docs/detail.jpg?raw=true) | ![Last Mile Guide](docs/route.jpg?raw=true) |
 
 ## 🚀 Getting Started
 
