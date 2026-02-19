@@ -1,0 +1,63 @@
+{
+  "appTitle": "扫墓通",
+  "addPersonTitle": "添加新人物",
+  "nameLabel": "姓名",
+  "nameHint": "请输入长辈或亲友姓名",
+  "cancel": "取消",
+  "confirm": "确定",
+  "addRelationship": "添加新关系",
+  "selectTarget": "选择目标人物",
+  "relationshipLabel": "关系名称",
+  "saveAndConnect": "保存并连接",
+  "detailTitle": "{name} 的详细信息",
+  "@detailTitle": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "addStepTitle": "添加指引步骤",
+  "stepDescHint": "描述详细路线",
+  "tapToTakePhoto": "点击拍照",
+  "add": "添加",
+  "routeToName": "前往 {name} 的路线",
+  "@routeToName": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "noRouteRecords": "还没有记录路线\n点击右下角开始记录",
+  "recordNewLandmark": "记录新路标",
+  "upload_photo": "更换图片",
+  "nameinfo": "姓名",
+  "birthDateHint": "生辰",
+  "deathDateHint": "祭日",
+  "biography": "生平",
+  "last_mile_navigation_description1": "最后一公里指引",
+  "last_mile_navigation_description2": "记录寻找墓地的图文路标",
+  "error_adding_connection_without_others": "需要先在主地图添加其他人物，才能在这里建立关系。",
+  "relationshipLabelHint": " (如：师生、父子)",
+  "input_select_target": "请选择一个目标人物",
+  "input_relationship_label": "请输入关系名称",
+  "build_connection_success": "关系添加成功",
+  "cameraLabel": "拍照",
+  "galleryLabel": "从相册中选择",
+  "imagePickerErrorMessage": "选择图片出错",
+  "has_last_mile": "有路线",
+  "copyrightNotice": "本软件所有数据均加密或保存在您的本地设备中，未经您的允许不会上传至任何云端服务器，请妥善保管您的设备与数据备份。",
+  "softwareDescription": "———— 为纪念与传承而生",
+  "contactDeveloperLabel": "联系作者",
+  "developerEmail": "passbyyyyy@gmail.com",
+  "storagePathLabel": "数据存储路径",
+  "versionLabel": "版本号: 1.1.0",
+  "infoScreenTitle": "关于本软件",
+  "copyToClipboardLabel": "成功复制至剪贴板",
+  "deleteNodeTooltip": "删除人物",
+  "deleteConfirmTitle": "确认删除?",
+  "deleteConfirmContent": "删除是不可逆的，此人物的所有信息都将会被删除: ",
+  "confirmDelete": "删除",
+  "connection": "关系",
+  "unknownPerson": "未知人员",
+  "deleteConnectionTooltip": "解除关系",
+  "connectionDeletedSuccessfully": "已解除",
+  "noConnectionsTip": "该人物暂时没有和他人有连线，请先添加。"
+}

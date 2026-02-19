@@ -1,0 +1,69 @@
+{
+  "appTitle": "GraveFinder",
+  "addPersonTitle": "Add New Person",
+  "nameLabel": "Name",
+  "nameHint": "Enter the name of a relative or friend",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "addRelationship": "Add New Relationship",
+  "selectTarget": "Select Target Person",
+  "relationshipLabel": "Relationship Name",
+  "saveAndConnect": "Save and Connect",
+  "detailTitle": "Details of {name}",
+  "@detailTitle": {
+    "description": "Title for the person detail screen",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "addStepTitle": "Add Guidance Step",
+  "stepDescHint": "How to get to the destination?",
+  "tapToTakePhoto": "Tap to take photo",
+  "add": "Add",
+  "routeToName": "Route to {name}",
+  "@routeToName": {
+    "description": "Title for the navigation route",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "noRouteRecords": "No routes recorded yet\nTap the bottom right to start",
+  "recordNewLandmark": "Record New Landmark",
+  "upload_photo": "Change Photo",
+  "nameinfo": "Name",
+  "birthDateHint": "Birth Date",
+  "deathDateHint": "Date of Passing",
+  "biography": "Biography",
+  "last_mile_navigation_description1": "Last-Mile Guidance",
+  "last_mile_navigation_description2": "Record photo and text landmarks to find the burial site",
+  "error_adding_connection_without_others": "You need to add other people to the main map first to establish a relationship.",
+  "relationshipLabelHint": " (e.g., Parent-Child, Teacher-Student)",
+  "input_select_target": "Please select a target person",
+  "input_relationship_label": "Please enter a relationship name",
+  "build_connection_success": "Relationship added successfully",
+  "cameraLabel": "Take the photo from camera",
+  "galleryLabel": "Pick an image from gallery",
+  "imagePickerErrorMessage": "Error in picking image",
+  "has_last_mile": "Directions",
+    "copyrightNotice": "All the data is stored locally and won't be uploaded without your permission. Please be careful with the data and make your own back-up.",
+  "softwareDescription": "———— For commemorating and passing on",
+  "contactDeveloperLabel": "Contact info",
+  "developerEmail": "passbyyyyy@gmail.com",
+  "storagePathLabel": "Path to storage",
+  "versionLabel": "version: 1.1.0",
+  "infoScreenTitle": "About",
+  "copyToClipboardLabel": "Successfully copied to clipboard",
+  "deleteNodeTooltip": "Delete this person",
+  "deleteConfirmTitle": "Are you sure to delete?",
+  "deleteConfirmContent": "Deletion is irreversible; all information about this person will be deleted: ",
+  "confirmDelete": "Delete",
+  "connection": "connection",
+  "unknownPerson": "Unknown Person",
+  "deleteConnectionTooltip": "Delete current connection",
+  "connectionDeletedSuccessfully": "Connection delete successfully",
+  "noConnectionsTip": "There's no connection with others, please add some first."
+}
