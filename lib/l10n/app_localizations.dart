@@ -311,7 +311,7 @@ abstract class AppLocalizations {
   /// No description provided for @softwareDescription.
   ///
   /// In en, this message translates to:
-  /// **'———— For commemorating and passing on'**
+  /// **'———— For memory and inheritance'**
   String get softwareDescription;
 
   /// No description provided for @contactDeveloperLabel.

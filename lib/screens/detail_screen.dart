@@ -56,8 +56,8 @@ class _PersonDetailScreenState extends State<PersonDetailScreen> {
     final DateTime? picked = await showDatePicker(
       context: context,
       initialDate: DateTime.now(),
-      firstDate: DateTime(1800),
-      lastDate: DateTime.now(),
+      firstDate: DateTime(0000),
+      lastDate: DateTime(9999),
     );
     if (picked != null) {
       setState(() {

@@ -122,7 +122,7 @@ class AppLocalizationsEn extends AppLocalizations {
       'All the data is stored locally and won\'t be uploaded without your permission. Please be careful with the data and make your own back-up.';
 
   @override
-  String get softwareDescription => '———— For commemorating and passing on';
+  String get softwareDescription => '———— For memory and inheritance';
 
   @override
   String get contactDeveloperLabel => 'Contact info';
