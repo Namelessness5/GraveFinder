@@ -39,7 +39,7 @@
   "deathDateHint": "Date of Passing",
   "biography": "Biography",
   "last_mile_navigation_description1": "Last-Mile Guidance",
-  "last_mile_navigation_description2": "Record photo and text landmarks to find the burial site",
+  "last_mile_navigation_description2": "Record photo and text landmarks",
   "error_adding_connection_without_others": "You need to add other people to the main map first to establish a relationship.",
   "relationshipLabelHint": " (e.g., Parent-Child, Teacher-Student)",
   "input_select_target": "Please select a target person",

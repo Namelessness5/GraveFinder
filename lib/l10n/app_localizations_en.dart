@@ -87,7 +87,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get last_mile_navigation_description2 =>
-      'Record photo and text landmarks to find the burial site';
+      'Record photo and text landmarks';
 
   @override
   String get error_adding_connection_without_others =>

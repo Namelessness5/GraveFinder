@@ -245,7 +245,7 @@ abstract class AppLocalizations {
   /// No description provided for @last_mile_navigation_description2.
   ///
   /// In en, this message translates to:
-  /// **'Record photo and text landmarks to find the burial site'**
+  /// **'Record photo and text landmarks'**
   String get last_mile_navigation_description2;
 
   /// No description provided for @error_adding_connection_without_others.
