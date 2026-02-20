@@ -18,7 +18,7 @@ It goes beyond traditional family tree software by offering a unique **"Last Mil
 
 | Infinite Canvas | Profile Details | "Last Mile" Guide |
 | :---: | :---: | :---: |
-| ![Infinite Canvas](docs/graph1.jpg?raw=true) | ![Profile Details](docs/detail.jpg?raw=true) | ![Last Mile Guide](docs/route.jpg?raw=true) |
+| ![Infinite Canvas](docs/graph.jpg?raw=true) | ![Profile Details](docs/detail.jpg?raw=true) | ![Last Mile Guide](docs/route.jpg?raw=true) |
 
 ## 🚀 Getting Started
 
